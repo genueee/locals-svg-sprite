@@ -1,7 +1,7 @@
 {
   "name": "locals-svg-icons",
-  "version": "0.0.1",
-  "description": "TheLocals svg icons",
+  "version": "0.0.3",
+  "description": "TheLocals SVG sprite",
   "main": "webpack.config.js",
   "scripts": {
     "build": "NODE_ENV=production webpack"
@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/genueee/locals-svg-icons#readme",
   "devDependencies": {
-    "webpack": "^1.14.0",
-    "webpack-svgstore-plugin": "^3.0.6"
+    "webpack": "1.14.0",
+    "webpack-svgstore-plugin": "3.0.6"
   }
 }

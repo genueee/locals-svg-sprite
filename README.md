@@ -1,6 +1,6 @@
-# TheLocals SVG
+# TheLocals SVG sprite
 
-SVG иконки в спрайте
+Сборщик SVG-иконок в спрайт
 
 ## Установка
 
@@ -8,7 +8,7 @@ SVG иконки в спрайте
 npm i
 ```
 
-## Сборка в спрайт
+## Сборка
 
 ```
 npm run build
